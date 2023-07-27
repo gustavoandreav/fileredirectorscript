@@ -6,6 +6,7 @@ A script that sends images and mp3 files from a downloads folder to image and mu
 - Install Python3
 
 ## How to use:
+0. Add your directories to the config.yml file
 1. Create a virtual environment for the project
 2. Install the dependencies from requirements.txt file
 3. Run the main.py file
