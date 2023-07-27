@@ -2,7 +2,7 @@
 A script that sends images and mp3 files from a downloads folder to image and music folders respectively
 
 ## Prerequisites:
-- Install venv
+- Install a virtual environment manager for Python
 - Install Python3
 
 ## How to use:
